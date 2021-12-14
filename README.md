@@ -1,1 +1,1 @@
-# homework-solutions-of-ML-Zoomcamp
+# Homework-solutions-of-ML-Zoomcamp
